@@ -1,0 +1,149 @@
+html {
+    font-size: 62.5%;
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 16px;
+}
+.encabezadoprincipal {
+
+    background-image: url(../Presentacion/tecnologia.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.imagenencabezado {
+    position: relative;
+    top: 10px;
+    width: 23rem;
+    padding-left: 20rem;
+}
+
+.titulo {
+
+    display: inline-block;
+    color: #FFFFFF;
+}
+
+h1 {
+    font-family: Georgia;
+    font-size: 3.6rem;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.titulo p {
+    position: relative;
+    top: -30px;
+    font-family: Arial Black;
+    font-size: 2.0rem;
+    text-align: end;
+    font-weight: bold;
+}
+.parrafo1 {
+
+    padding: 5rem 10rem;
+}
+
+.parrafo1 h2 {
+
+    font-size: 3rem;
+    color: #002F69;
+
+}
+
+.parrafo1 p {
+
+    padding-left: 15rem;
+    text-align: justify;
+    color: #002F69;
+    font-size: 2rem;
+}
+.portatiles1 img{
+    float: left;
+    
+    margin: 50px;
+    padding-bottom: 1px;
+    width: 350px;
+    border-bottom: solid;
+    border-bottom: 3rem solid #0087FF;
+    border-top: 3rem solid #0087FF;
+  }
+  .portatiles1 h2{
+    padding-left: 15rem;
+    padding-top: 10rem;
+    text-align: justify;
+    font-size: 2rem;
+    color: #151cf9;
+    width: 80%; 
+  }
+  .portatiles1 p {
+    padding-left: 15rem;
+    padding-top: 3rem;
+    text-align:justify;
+    font-size: 2rem;
+    color: #002F69;
+    width: 80%; 
+  }
+.informacion1 label,a {
+    padding-left: 15rem;
+    padding-top: 2rem;
+    text-align:justify;
+    font-size: 2rem;
+    color: #fcfcfc;
+    width: 80%; 
+}
+#info1:checked + label >a {
+    padding-left: 15rem;
+    padding-top: 2rem;
+    text-align:justify;
+    font-size: 2rem;
+    color: #0f09d0;
+    width: 80%; 
+}
+
+
+
+.portatiles2 img{
+    float: left;
+    
+    margin: 50px;
+    padding-bottom: 1px;
+    width: 350px;
+    border-bottom: solid;
+    border-bottom: 3rem solid #0087FF;
+    border-top: 3rem solid #0087FF;
+  }
+  .portatiles2 h2{
+    padding-left: 15rem;
+    padding-top: 10rem;
+    text-align: justify;
+    font-size: 2rem;
+    color: #151cf9;
+    width: 80%; 
+  }
+  .portatiles2 p {
+    padding-left: 15rem;
+    padding-top: 3rem;
+    text-align:justify;
+    font-size: 2rem;
+    color: #002F69;
+    width: 80%; 
+  }
+.informacion2 label,a {
+    padding-left: 15rem;
+    padding-top: 2rem;
+    text-align:justify;
+    font-size: 2rem;
+    color: #fcfcfc;
+    width: 80%; 
+}
+#info2:checked + label >a {
+    padding-left: 15rem;
+    padding-top: 2rem;
+    text-align:justify;
+    font-size: 2rem;
+    color: #0f09d0;
+    width: 80%; 
+}
